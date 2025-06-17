@@ -1,7 +1,5 @@
 📄 README.md for Charity_Bot
-markdown
-Copy
-Edit
+
 # 🤖 Charity_Bot
 
 A Telegram bot built using Python to streamline donation collection, volunteer coordination, and event updates for charity organizations.
@@ -33,9 +31,7 @@ A Telegram bot built using Python to streamline donation collection, volunteer c
    cd Charity_Bot
 Install dependencies:
 
-bash
-Copy
-Edit
+
 pip install -r requirements.txt
 Set up environment variables:
 
@@ -44,9 +40,6 @@ Telegram bot token
 
 Run the bot:
 
-bash
-Copy
-Edit
 python my_bot.py
 
 
